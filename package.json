@@ -25,5 +25,6 @@
   "homepage": "https://github.com/AIDungeon/GPT-3-Encoder#readme",
   "devDependencies": {
     "jest": "^26.4.2"
-  }
+  },
+  "dependencies": {}
 }
